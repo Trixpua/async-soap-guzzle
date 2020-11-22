@@ -1,5 +1,5 @@
 {
-    "name": "trixpua/async-soap-guzzle",
+    "name": "meng-tian/async-soap-guzzle",
     "description": "An asynchronous SOAP client build on top of Guzzle.",
     "keywords": ["SOAP", "asynchronous", "Guzzle"],
     "license": "MIT",
